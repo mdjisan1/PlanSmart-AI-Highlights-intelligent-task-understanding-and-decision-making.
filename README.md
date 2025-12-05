@@ -1,10 +1,12 @@
-# Smart Task Manager — Python Prototype
-
-![UI Screenshot](images/ui_screenshot.png)
+# PlanSmart AI: Highlights intelligent task understanding and decision-making.
 
 ## Overview
 
-The **Smart Task Manager** is a Python-based application designed to make task management **simpler, smarter, and more efficient**. Unlike traditional task apps, this system allows users to **add tasks in plain English**, automatically extracting deadlines, priorities, and subtasks using **lightweight NLP and AI features**. The app also tracks user behavior to provide **smart priority suggestions and productivity insights**.
+The **PlanSmart AI** is a Python-based application designed to make task management **simpler, smarter, and more efficient**. Unlike traditional task apps, this system allows users to **add tasks in plain English**, automatically extracting deadlines, priorities, and subtasks using **lightweight NLP and AI features**. The app also tracks user behavior to provide **smart priority suggestions and productivity insights**.
+
+## Dashboard UI
+![UI Screenshot](img/ui1.png)
+![UI Screenshot](img/ui2.png)
 
 **Key Features:**
 
@@ -40,7 +42,7 @@ The **Smart Task Manager** is a Python-based application designed to make task m
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/smart-task-manager.git
+git clone https://github.com/mdjisan1/PlanSmart-AI-Highlights-intelligent-task-understanding-and-decision-making..git
 cd smart-task-manager
 ```
 
@@ -147,3 +149,9 @@ This project is open-source and free to use for educational purposes.
 ---
 
 *Developed by [Your Name] — Prototype for LSBU Smart Task Manager project.*
+
+
+
+
+
+
