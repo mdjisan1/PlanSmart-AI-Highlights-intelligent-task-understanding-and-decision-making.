@@ -5,8 +5,8 @@
 The **PlanSmart AI** is a Python-based application designed to make task management **simpler, smarter, and more efficient**. Unlike traditional task apps, this system allows users to **add tasks in plain English**, automatically extracting deadlines, priorities, and subtasks using **lightweight NLP and AI features**. The app also tracks user behavior to provide **smart priority suggestions and productivity insights**.
 
 ## Dashboard UI
-![UI Screenshot](img/ui1.png)
-![UI Screenshot](img/ui2.png)
+![UI1 Screenshot](img/ui1.png)
+![UI2 Screenshot](img/ui2.png)
 
 **Key Features:**
 
@@ -148,7 +148,8 @@ This project is open-source and free to use for educational purposes.
 
 ---
 
-*Developed by [Your Name] — Prototype for LSBU Smart Task Manager project.*
+*Developed by [Md. Jisan Ahmed] — Prototype for Smart Task Manager project.*
+
 
 
 
