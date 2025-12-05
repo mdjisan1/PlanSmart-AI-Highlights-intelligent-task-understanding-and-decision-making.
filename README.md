@@ -43,7 +43,7 @@ The **PlanSmart AI** is a Python-based application designed to make task managem
 
 ```bash
 git clone https://github.com/mdjisan1/PlanSmart-AI-Highlights-intelligent-task-understanding-and-decision-making..git
-cd smart-task-manager
+cd PlanSmart AI: Highlights intelligent task understanding and decision-making.
 ```
 
 2. **Create a virtual environment**
@@ -149,6 +149,7 @@ This project is open-source and free to use for educational purposes.
 ---
 
 *Developed by [Md. Jisan Ahmed] — Prototype for Smart Task Manager project.*
+
 
 
 
